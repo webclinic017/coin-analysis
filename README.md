@@ -22,6 +22,8 @@
   - [데이터_통합](https://github.com/HwayoungYoon/coin-analysis/blob/main/%EA%B0%9C%EB%B3%84%EC%9D%98_%EA%B0%80%EA%B2%A9_%EA%B7%B8%EB%9E%98%ED%94%84%EB%A1%9C_%EC%A0%84%EB%A7%9D_%EC%98%88%EC%B8%A1_%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%86%B5%ED%95%A9ver.ipynb)
   - [데이터_통합계절성_제거](https://github.com/HwayoungYoon/coin-analysis/blob/main/%EA%B0%9C%EB%B3%84%EC%9D%98_%EA%B0%80%EA%B2%A9_%EA%B7%B8%EB%9E%98%ED%94%84%EB%A1%9C_%EC%A0%84%EB%A7%9D_%EC%98%88%EC%B8%A1_%EB%8D%B0%EC%9D%B4%ED%84%B0_%ED%86%B5%ED%95%A9%26%EA%B3%84%EC%A0%88%EC%84%B1_%EC%A0%9C%EA%B1%B0ver.ipynb)
   - [코인마켓캡_출력](https://github.com/HwayoungYoon/coin-analysis/blob/main/%EA%B0%9C%EB%B3%84%EC%9D%98_%EA%B0%80%EA%B2%A9_%EA%B7%B8%EB%9E%98%ED%94%84%EB%A1%9C_%EC%A0%84%EB%A7%9D_%EC%98%88%EC%B8%A1_%EC%BD%94%EC%9D%B8%EB%A7%88%EC%BC%93%EC%BA%A1_%EC%B6%9C%EB%A0%A5ver.ipynb)
+- 모멘텀
+  - [모멘텀](https://github.com/HwayoungYoon/coin-analysis/blob/main/Quant_Momentum_all.ipynb)
 
 ## To-Do
 - 트위터 언급량과의 상관관계 분석
